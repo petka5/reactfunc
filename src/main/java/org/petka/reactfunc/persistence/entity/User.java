@@ -1,4 +1,4 @@
-package org.petka.reactfunc.persistence.entities;
+package org.petka.reactfunc.persistence.entity;
 
 import lombok.Builder;
 import lombok.Data;

@@ -1,7 +1,8 @@
 package org.petka.reactfunc.railway;
 
-import org.petka.reactfunc.persistence.entities.User;
+import org.petka.reactfunc.persistence.entity.User;
 
+import java.util.List;
 import java.util.Objects;
 
 public class UsingResult {

@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  reactfunc-service:
+    container_name: reactfunc
+    build: .
+    ports:
+      - "8080:8080"
+
