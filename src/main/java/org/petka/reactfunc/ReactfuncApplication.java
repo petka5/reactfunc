@@ -9,6 +9,7 @@ import static org.springframework.web.reactive.function.server.RouterFunctions.r
 
 import org.petka.reactfunc.handler.ProductHandler;
 import org.petka.reactfunc.persistence.entity.Product;
+import org.petka.reactfunc.persistence.repository.ProductRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

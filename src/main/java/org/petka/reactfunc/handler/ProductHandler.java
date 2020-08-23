@@ -1,6 +1,6 @@
 package org.petka.reactfunc.handler;
 
-import org.petka.reactfunc.ProductRepository;
+import org.petka.reactfunc.persistence.repository.ProductRepository;
 import org.petka.reactfunc.persistence.entity.Product;
 import org.petka.reactfunc.persistence.entity.ProductEvent;
 import org.springframework.http.HttpStatus;
